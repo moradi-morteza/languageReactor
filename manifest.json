@@ -13,16 +13,6 @@
       "run_at": "document_start"
    }, {
       "css": [  ],
-      "js": [ "content_youtube.js" ],
-      "matches": [ "*://*.youtube.com/*" ],
-      "run_at": "document_start"
-   }, {
-      "css": [  ],
-      "js": [ "content_amazon.js" ],
-      "matches": [ "*://*.amazon.com.br/*", "*://*.amazon.ca/*", "*://*.amazon.com.mx/*", "*://*.amazon.com/*", "*://*.amazon.cn/*", "*://*.amazon.in/*", "*://*.amazon.co.jp/*", "*://*.amazon.sg/*", "*://*.amazon.ae/*", "*://*.amazon.sa/*", "*://*.amazon.fr/*", "*://*.amazon.de/*", "*://*.amazon.it/*", "*://*.amazon.nl/*", "*://*.amazon.pl/*", "*://*.amazon.es/*", "*://*.amazon.se/*", "*://*.amazon.com.tr/*", "*://*.amazon.co.uk/*", "*://*.amazon.com.au/*" ],
-      "run_at": "document_start"
-   }, {
-      "css": [  ],
       "js": [ "content_dioco.js" ],
       "matches": [ "https://*.languagereactor.com/*" ],
       "run_at": "document_start"
